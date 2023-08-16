@@ -13,3 +13,7 @@ Python serial communication simulator → Arduino IDE
 ## REFERENCES
 
 [Pyserial](https://pyserial.readthedocs.io/en/latest/pyserial.html)
+
+## QUESTIONS
+
+[Can serial communication between Python and Arduino be reversed?](https://github.com/orgs/community/discussions/63973#discussion-5528238)
