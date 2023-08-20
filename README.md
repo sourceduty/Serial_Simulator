@@ -19,3 +19,6 @@ Python serial communication simulator → Arduino IDE
 Can serial communication between Python and Arduino be reversed?
 
 [Arduino Forum](https://forum.arduino.cc/t/serial-communication-between-python-and-arduino/1158919/4)
+
+#
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
