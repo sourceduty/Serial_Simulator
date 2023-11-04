@@ -40,6 +40,8 @@ Ensure that you replace 'COM3' with the correct port name that your Arduino is c
 
 This script will continuously send random sensor values between 0 and 1023 to the Arduino, and you can stop the simulation by pressing Ctrl+C.
 
+#
+
 ### FEATURES
 
 - Reversed serial communication between Python and Arduino.
